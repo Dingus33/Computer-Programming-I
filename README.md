@@ -1,4 +1,5 @@
-# Mr Kapptie's Programming Portfolio 2024-25
+# Dallin Mattinson's Programming Portfolio 2024-25
+
 
 ## Term 1
 ![Running App](https://github.com/Dingus33/Computer-Programming-I/blob/main/images/Convert%20Screenshot.png?raw=true)
