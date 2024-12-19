@@ -28,6 +28,6 @@
 [Spacegame Link](https://github.com/Dingus33/Computer-Programming-I/tree/bab34ae6f711060d7a04f9b1fa7dca4768e401eb/src/Term%202/SpaceGame)
 
 ## Minesweeper
-![Running App](https://github.com/Dingus33/Computer-Programming-I/blob/main/images/Minesweeper%20Screenshot.png?raw=true)
+![Running App](https://github.com/Dingus33/Computer-Programming-I/blob/main/images/Minesweeper%20screenshot.png?raw=true)
 ### Fully working classic minesweeper game, right click to flag
 [Minesweeper Link](https://github.com/Dingus33/Computer-Programming-I/blob/main/images/Minesweeper%20screenshot.png)
