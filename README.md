@@ -3,19 +3,13 @@
 ### Email - dallinmatt3@gmail.com
 
 ## Certifications
-
-Personal Info: Title (Programming I Portfolio) | Student Name | Contact Info [Email Someone](mailto:someone@example.com)- 1 Point
-Certification(s) earned (any YouScience Certifications based in Tech) - 1 Point
-Spotlight on Term One Projects with title, description, image of running app and link to group repository. Indicate your personal contribution statement with appropriate links - 1 Point
-Spotlight on Term Two Projects (any other projects) -  1 Point
-Title
-Description
-Image of Running App
-Link to Individual Repo
+### Computer Programming I exam from youscience, 92.89%
+# Programs
+### I alone have written all of the programs below, no code has been copied from another person
 
 ## Conversion Application
 ![Running App](https://github.com/Dingus33/Computer-Programming-I/blob/main/images/Convert%20Screenshot.png?raw=true)
-### Converts degrees to radians, or vice-versa
+### Converts degrees to radians, or vice-versa, on a graph
 [Conversion Link](https://github.com/Dingus33/Computer-Programming-I/tree/bab34ae6f711060d7a04f9b1fa7dca4768e401eb/src/Term%201/Conversions)
 
 ## Etch-A-Sketch
@@ -30,9 +24,10 @@ Link to Individual Repo
 ## Spacegame
 ![Running App](https://github.com/Dingus33/Computer-Programming-I/blob/main/images/Spacegame%20Screenshot.png?raw=true)
 ### Use WASD to move the ship to avoid asteroids. If you run out of health or ammo, you lose
-### Power-ups: <span style="color:blue">some *blue* text</span> Yellow +ammo, Green reset health, Red multishot, Blue minigun, Orange better lasers, Cyan indestructable & +speed, White hit all
+### Power-ups: Yellow +ammo, Green reset health, Red multishot, Blue minigun, Orange better lasers, Cyan indestructable & +speed, White hit all
 [Spacegame Link](https://github.com/Dingus33/Computer-Programming-I/tree/bab34ae6f711060d7a04f9b1fa7dca4768e401eb/src/Term%202/SpaceGame)
 
 ## Minesweeper
-![Running App](https://github.com/Dingus33/Computer-Programming-I/blob/main/images/Minesweeper%20Screenshot.png?raw=true) <br/>
+![Running App](https://github.com/Dingus33/Computer-Programming-I/blob/main/images/Minesweeper%20Screenshot.png?raw=true)
+### Fully working classic minesweeper game, right click to flag
 [Minesweeper Link](https://github.com/Dingus33/Computer-Programming-I/tree/d8240abc7bf42915197ecb4447c932785f0102f3/src/Other/Minesweeper)
