@@ -30,4 +30,4 @@
 ## Minesweeper
 ![Running App](https://github.com/Dingus33/Computer-Programming-I/blob/main/images/Minesweeper%20screenshot.png?raw=true)
 ### Fully working classic minesweeper game, right click to flag
-[Minesweeper Link](https://github.com/Dingus33/Computer-Programming-I/blob/main/images/Minesweeper%20screenshot.png)
+[Minesweeper Link](https://github.com/Dingus33/Computer-Programming-I/tree/c00066c452cfb6a4829366fb693ef2ab35a17245/src/Other/Minesweeper)
