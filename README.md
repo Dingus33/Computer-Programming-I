@@ -19,19 +19,19 @@ Link to Individual Repo
 [Conversion Link](https://github.com/Dingus33/Computer-Programming-I/tree/bab34ae6f711060d7a04f9b1fa7dca4768e401eb/src/Term%201/Conversions)
 
 ## Etch-A-Sketch
-![Running App](https://github.com/Dingus33/Computer-Programming-I/blob/main/images/Etch%20Screenshot.png?raw=true)
+![Running App](https://github.com/Dingus33/Computer-Programming-I/blob/main/images/Etch%20Screenshot.png?raw=true)<br/>
 ### Use WASD to draw and tab to screenshot
 [Etch-A-Sketch Link](https://github.com/Dingus33/Computer-Programming-I/tree/bab34ae6f711060d7a04f9b1fa7dca4768e401eb/src/Term%201/Etch-A-Sketch)
 
 ## Calculator
-![Running App](https://github.com/Dingus33/Computer-Programming-I/blob/main/images/Calculator%20Screenshot.png?raw=true)
+![Running App](https://github.com/Dingus33/Computer-Programming-I/blob/main/images/Calculator%20Screenshot.png?raw=true)<br/>
 [Calculator Link](https://github.com/Dingus33/Computer-Programming-I/tree/bab34ae6f711060d7a04f9b1fa7dca4768e401eb/src/Term%202/Calculator)
 
 ## Spacegame
 ![Running App](https://github.com/Dingus33/Computer-Programming-I/blob/main/images/Spacegame%20Screenshot.png?raw=true)
-[Spacegame Link](https://github.com/Dingus33/Computer-Programming-I/tree/bab34ae6f711060d7a04f9b1fa7dca4768e401eb/src/Term%202/SpaceGame)
 ### Use WASD to move the ship to avoid asteroids. If you run out of health or ammo, you lose
-### Power-ups: Yellow +ammo, Red multishot, Blue minigun, 
+### Power-ups: Yellow +ammo, Green reset health, Red multishot, Blue minigun, Orange better lasers, Cyan indestructable & +speed, White hit all
+[Spacegame Link](https://github.com/Dingus33/Computer-Programming-I/tree/bab34ae6f711060d7a04f9b1fa7dca4768e401eb/src/Term%202/SpaceGame)
 
 ## Minesweeper
 ![Running App](https://github.com/Dingus33/Computer-Programming-I/blob/main/images/Minesweeper%20Screenshot.png?raw=true) <br/>
