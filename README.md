@@ -31,4 +31,4 @@ Link to Individual Repo
 
 ## Minesweeper
 ![Running App](https://github.com/Dingus33/Computer-Programming-I/blob/main/images/Minesweeper%20Screenshot.png?raw=true)
-https://github.com/Dingus33/Computer-Programming-I/tree/d8240abc7bf42915197ecb4447c932785f0102f3/src/Other/Minesweeper
+[Minesweeper Link](https://github.com/Dingus33/Computer-Programming-I/tree/d8240abc7bf42915197ecb4447c932785f0102f3/src/Other/Minesweeper)
