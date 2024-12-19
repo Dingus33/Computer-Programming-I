@@ -30,7 +30,7 @@ Link to Individual Repo
 ## Spacegame
 ![Running App](https://github.com/Dingus33/Computer-Programming-I/blob/main/images/Spacegame%20Screenshot.png?raw=true)
 ### Use WASD to move the ship to avoid asteroids. If you run out of health or ammo, you lose
-### Power-ups: <span style="color:yellow;">Text</span>Yellow +ammo, Green reset health, Red multishot, Blue minigun, Orange better lasers, Cyan indestructable & +speed, White hit all
+### Power-ups: <span style="color:blue">some *blue* text</span> Yellow +ammo, Green reset health, Red multishot, Blue minigun, Orange better lasers, Cyan indestructable & +speed, White hit all
 [Spacegame Link](https://github.com/Dingus33/Computer-Programming-I/tree/bab34ae6f711060d7a04f9b1fa7dca4768e401eb/src/Term%202/SpaceGame)
 
 ## Minesweeper
