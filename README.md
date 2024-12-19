@@ -16,16 +16,20 @@ Link to Individual Repo
 ## Conversion Application
 ![Running App](https://github.com/Dingus33/Computer-Programming-I/blob/main/images/Convert%20Screenshot.png?raw=true)
 ### Converts degrees to radians, or vice-versa
+[Conversion Link](https://github.com/Dingus33/Computer-Programming-I/tree/bab34ae6f711060d7a04f9b1fa7dca4768e401eb/src/Term%201/Conversions)
 
 ## Etch-A-Sketch
 ![Running App](https://github.com/Dingus33/Computer-Programming-I/blob/main/images/Etch%20Screenshot.png?raw=true)
 ### Use WASD to draw and tab to screenshot
+[Etch-A-Sketch Link](https://github.com/Dingus33/Computer-Programming-I/tree/bab34ae6f711060d7a04f9b1fa7dca4768e401eb/src/Term%201/Etch-A-Sketch)
 
 ## Calculator
 ![Running App](https://github.com/Dingus33/Computer-Programming-I/blob/main/images/Calculator%20Screenshot.png?raw=true)
+[Calculator Link](https://github.com/Dingus33/Computer-Programming-I/tree/bab34ae6f711060d7a04f9b1fa7dca4768e401eb/src/Term%202/Calculator)
 
 ## Spacegame
 ![Running App](https://github.com/Dingus33/Computer-Programming-I/blob/main/images/Spacegame%20Screenshot.png?raw=true)
+[Spacegame Link](https://github.com/Dingus33/Computer-Programming-I/tree/bab34ae6f711060d7a04f9b1fa7dca4768e401eb/src/Term%202/SpaceGame)
 ### Use WASD to move the ship to avoid asteroids. If you run out of health or ammo, you lose
 ### Power-ups: Yellow +ammo, Red multishot, Blue minigun, 
 
