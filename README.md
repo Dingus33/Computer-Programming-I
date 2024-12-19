@@ -5,7 +5,7 @@
 ## Certifications
 ### Computer Programming I exam from youscience, 92.89%
 # Programs
-### I alone have written all of the programs below, no code has been copied from another person
+### I alone have written all of the programs below, no code has been directly copied from another person
 
 ## Conversion Application
 ![Running App](https://github.com/Dingus33/Computer-Programming-I/blob/main/images/Convert%20Screenshot.png?raw=true)
